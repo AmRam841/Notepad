@@ -1,0 +1,13 @@
+D:\Amirmohammad\Notepad\Notepad\Notepad\bin\Debug\Notepad.exe.config
+D:\Amirmohammad\Notepad\Notepad\Notepad\bin\Debug\Notepad.exe
+D:\Amirmohammad\Notepad\Notepad\Notepad\bin\Debug\Notepad.pdb
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.Notepad_Main.resources
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.exe
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.pdb
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.Find.resources
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.FormReplace.resources
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.Go_To.resources
+D:\Amirmohammad\Notepad\Notepad\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
